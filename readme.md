@@ -15,3 +15,5 @@ PPI data:
 
     utilize node2vec to get embeddings of each protein, concat this vector with sequence feature to predict labels.
 
+PS:
+datapath in the scripts may be incorrect, you can update the path with respect to the true path.
