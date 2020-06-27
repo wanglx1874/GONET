@@ -1,1 +1,1 @@
-human and mouse dataset
+push sequence data already, you can download ppi data from [String](https://string-db.org/cgi/download.pl?sessionId=QQQjL7BwmrC4&species_text=Homo+sapiens) and select certain species including human and mouse.
